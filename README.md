@@ -1,12 +1,12 @@
 # OAuth 2 Authorization Code flow
 
-A trivial implementation of the oauth2 authorization code flow, for ilustration purposes only.
+A trivial implementation of the oauth2 authorization code flow, for illustration purposes only.
 
 https://github.com/gmagno/oauth2flow/assets/46817915/be9d74f8-c00f-4bb2-8a8c-8c586a4b71b6
 
 ## Dependencies
 
-- localtunnel
+- [localtunnel](https://github.com/localtunnel/localtunnel)
 - python: fastapi, httpx, pydantic and uvicorn
 
 ## Setup
